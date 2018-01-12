@@ -1,8 +1,9 @@
+
 #top-info {
 	text-align: center;
 }
 .top-info-half {
-	margin: 25px 10%;
+	margin: 25px 5%;
 }
 #pie-chart-description {
 	width: 300px;
@@ -26,4 +27,19 @@ display: inline-block;
 	margin: 20px 40px;
 	background: royalblue;
 	padding: 10px 20px;
+	border-radius: 25px
+}
+.button:hover {
+	display: inline-block;
+	margin: 20px 40px;
+	background: green;
+	padding: 12px 24px;
+	transition-duration: .5s;
+	border-radius: 25px
+}
+.donate-button:hover {
+	padding: 5px;
+	background: grey;
+	transition-duration: .5s;
+	border-radius: 25px
 }
