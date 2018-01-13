@@ -56,3 +56,6 @@ display: inline-block;
 	transition-duration: .5s;
 	border-radius: 25px
 }
+footer {
+	color: white;
+}
