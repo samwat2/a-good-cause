@@ -1,0 +1,61 @@
+html { 
+  background: url("images/salt_lake_city_mountains.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#top-info {
+	text-align: center;
+}
+#donate {
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 100px;
+}
+.top-info-half {
+	margin: 25px 5%;
+}
+#pie-chart-description {
+	width: 300px;
+	height: 300px;
+	line-height: 50px;
+	display: inline-block;
+}
+#homeless-pie {
+display: inline-block;
+}
+#d-button {
+margin:;
+display: inline-block;
+}
+.button-row {
+	text-align: center;
+	margin: 50px 0px
+}
+.button {
+	display: inline-block;
+	margin: 20px 40px;
+	background: royalblue;
+	padding: 10px 20px;
+	border-radius: 25px
+}
+.button:hover {
+	display: inline-block;
+	margin: 20px 40px;
+	background: green;
+	padding: 12px 24px;
+	transition-duration: .5s;
+	border-radius: 25px
+}
+.donate-button{
+	border-radius: 15px;
+}
+.donate-button:hover {
+	padding: 5px;
+	background: darkorange;
+	transition-duration: .5s;
+	border-radius: 25px
+}
+footer {
+	color: white;
+}
