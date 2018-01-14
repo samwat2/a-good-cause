@@ -17,6 +17,7 @@ body, html {
 	min-height: 100%;
 }
 .caption {
+	font-size:75px;
 	position: absolute;
 	left: 0%;
 	top: 40%;
@@ -47,6 +48,9 @@ h4, h3 {
 	margin: 0;
 	padding: 20px;
 
+}
+.line-break {
+	margin: 20px;
 }
 
 footer {
