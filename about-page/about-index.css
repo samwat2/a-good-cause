@@ -1,0 +1,58 @@
+body, html {
+	height: 100%;
+	margin: 0;
+	font-family: 'Times New Roman', sans-serif;
+}
+.image3, .image4 {
+	position:relative;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity: .65;
+}
+
+.image3 {
+	background-image: url("sadness.jpeg");
+	min-height: 100%;
+}
+.caption {
+	position: absolute;
+	left: 0%;
+	top: 40%;
+	width: 100%;
+	text-align: center;
+	color: #000;
+
+}
+.caption span.border {
+	font-size: 20px;
+	background-color: #111;
+	color: black;
+}
+.button {
+	display: center;
+	margin: 20px 40px;
+	padding: 10px 20px;
+	border-radius: 25px;
+	background-color: blue;
+	color: red;
+}
+h4, h3 {
+	text-align: center;
+}
+.para3 {
+	background: grey;
+	text-align: justify;
+	margin: 0;
+	padding: 20px;
+
+}
+
+footer {
+	text-align: center;
+	overflow: none;
+}
+.indent {
+	text-indent: 5pc;
+}
